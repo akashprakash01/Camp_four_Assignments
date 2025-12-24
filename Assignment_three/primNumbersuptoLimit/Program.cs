@@ -14,7 +14,7 @@
                 //count initialization
                 int count = 0;
 
-                //inner loop
+                //inner loop updated
                 for (int j = 1; j <= i; j++)
                 {
                     // if rem is zero then count will be incremented
