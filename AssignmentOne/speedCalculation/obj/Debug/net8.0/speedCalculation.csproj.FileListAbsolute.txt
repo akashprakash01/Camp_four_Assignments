@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\bin\Debug\net8.0\speedCalculation.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\bin\Debug\net8.0\speedCalculation.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\bin\Debug\net8.0\speedCalculation.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\bin\Debug\net8.0\speedCalculation.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\bin\Debug\net8.0\speedCalculation.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\refint\speedCalculation.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\speedCalculation.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\speedCalculation\obj\Debug\net8.0\ref\speedCalculation.dll

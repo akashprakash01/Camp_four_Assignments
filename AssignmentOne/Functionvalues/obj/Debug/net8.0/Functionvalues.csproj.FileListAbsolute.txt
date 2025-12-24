@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\bin\Debug\net8.0\Functionvalues.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\bin\Debug\net8.0\Functionvalues.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\bin\Debug\net8.0\Functionvalues.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\bin\Debug\net8.0\Functionvalues.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\bin\Debug\net8.0\Functionvalues.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\refint\Functionvalues.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\Functionvalues.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\AssignmentOne\Functionvalues\obj\Debug\net8.0\ref\Functionvalues.dll

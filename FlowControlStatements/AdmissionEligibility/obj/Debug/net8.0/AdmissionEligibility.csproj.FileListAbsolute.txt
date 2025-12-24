@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\bin\Debug\net8.0\AdmissionEligibility.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\bin\Debug\net8.0\AdmissionEligibility.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\bin\Debug\net8.0\AdmissionEligibility.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\bin\Debug\net8.0\AdmissionEligibility.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\bin\Debug\net8.0\AdmissionEligibility.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\refint\AdmissionEligibility.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\AdmissionEligibility.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\AdmissionEligibility\obj\Debug\net8.0\ref\AdmissionEligibility.dll

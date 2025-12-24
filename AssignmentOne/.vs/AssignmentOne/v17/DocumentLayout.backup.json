@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3DD4F7-1666-4AC7-BC40-719ECBE62CF8}|Functionvalues\\Functionvalues.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignmentone\\functionvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3DD4F7-1666-4AC7-BC40-719ECBE62CF8}|Functionvalues\\Functionvalues.csproj|solutionrelative:functionvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D9772F-B28A-4A22-B81D-0CE9F906ECF0}|speedCalculation\\speedCalculation.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignmentone\\speedcalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D9772F-B28A-4A22-B81D-0CE9F906ECF0}|speedCalculation\\speedCalculation.csproj|solutionrelative:speedcalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB4D6D6-213E-479E-A58D-C9542AC325BA}|Trianglepattern\\Trianglepattern.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignmentone\\trianglepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB4D6D6-213E-479E-A58D-C9542AC325BA}|Trianglepattern\\Trianglepattern.csproj|solutionrelative:trianglepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE6F09-A14E-42B5-A433-2D6E104311EC}|AssignmentDataTypes\\UserIogin.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignmentone\\assignmentdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE6F09-A14E-42B5-A433-2D6E104311EC}|AssignmentDataTypes\\UserIogin.csproj|solutionrelative:assignmentdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\Functionvalues\\Program.cs",
+              "RelativeDocumentMoniker": "Functionvalues\\Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\Functionvalues\\Program.cs",
+              "RelativeToolTip": "Functionvalues\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:50:09.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\speedCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "speedCalculation\\Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\speedCalculation\\Program.cs",
+              "RelativeToolTip": "speedCalculation\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:30:31.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\Trianglepattern\\Program.cs",
+              "RelativeDocumentMoniker": "Trianglepattern\\Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\Trianglepattern\\Program.cs",
+              "RelativeToolTip": "Trianglepattern\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T16:49:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\AssignmentDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDataTypes\\Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\AssignmentOne\\AssignmentDataTypes\\Program.cs",
+              "RelativeToolTip": "AssignmentDataTypes\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:13:13.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

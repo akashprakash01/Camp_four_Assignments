@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\bin\Debug\net8.0\Coocrdinates.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\bin\Debug\net8.0\Coocrdinates.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\bin\Debug\net8.0\Coocrdinates.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\bin\Debug\net8.0\Coocrdinates.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\bin\Debug\net8.0\Coocrdinates.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\refint\Coocrdinates.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\Coocrdinates.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\EligigibleForVoting\Coocrdinates\obj\Debug\net8.0\ref\Coocrdinates.dll
