@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\squareAndSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF16231-C96F-43F8-95ED-EB63A0164AA8}|squareAndSum.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignment_three\\squareandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF16231-C96F-43F8-95ED-EB63A0164AA8}|squareAndSum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D5DD8E-E372-4837-9396-2952F4511CDC}|..\\primeNumber\\primeNumber.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignment_three\\primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256C547-97EE-4DEE-8805-BB3A1EF8453C}|..\\armStrongNumber\\armStrongNumber.csproj|e:\\faithinfotech\\.net\\camp4\\propelsep2025\\assignment_three\\armstrongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\primeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "..\\primeNumber\\Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\primeNumber\\Program.cs",
+              "RelativeToolTip": "..\\primeNumber\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:51:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\armStrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "..\\armStrongNumber\\Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\armStrongNumber\\Program.cs",
+              "RelativeToolTip": "..\\armStrongNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:50:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\squareAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Faithinfotech\\.Net\\Camp4\\PropelSep2025\\Assignment_three\\squareAndSum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:48:45.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

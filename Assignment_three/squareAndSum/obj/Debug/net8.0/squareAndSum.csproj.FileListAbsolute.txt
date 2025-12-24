@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\bin\Debug\net8.0\squareAndSum.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\bin\Debug\net8.0\squareAndSum.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\bin\Debug\net8.0\squareAndSum.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\bin\Debug\net8.0\squareAndSum.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\bin\Debug\net8.0\squareAndSum.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\refint\squareAndSum.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\squareAndSum.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\squareAndSum\obj\Debug\net8.0\ref\squareAndSum.dll

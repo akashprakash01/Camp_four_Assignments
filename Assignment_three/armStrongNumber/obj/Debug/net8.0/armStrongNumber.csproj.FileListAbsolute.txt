@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\bin\Debug\net8.0\armStrongNumber.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\bin\Debug\net8.0\armStrongNumber.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\bin\Debug\net8.0\armStrongNumber.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\bin\Debug\net8.0\armStrongNumber.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\bin\Debug\net8.0\armStrongNumber.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\refint\armStrongNumber.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\armStrongNumber.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\armStrongNumber\obj\Debug\net8.0\ref\armStrongNumber.dll

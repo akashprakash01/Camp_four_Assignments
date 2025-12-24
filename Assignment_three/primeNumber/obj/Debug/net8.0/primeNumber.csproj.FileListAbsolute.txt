@@ -1,0 +1,14 @@
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\bin\Debug\net8.0\primeNumber.exe
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\bin\Debug\net8.0\primeNumber.deps.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\bin\Debug\net8.0\primeNumber.runtimeconfig.json
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\bin\Debug\net8.0\primeNumber.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\bin\Debug\net8.0\primeNumber.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.AssemblyInfoInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.AssemblyInfo.cs
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.csproj.CoreCompileInputs.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\refint\primeNumber.dll
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.pdb
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\primeNumber.genruntimeconfig.cache
+E:\Faithinfotech\.Net\Camp4\PropelSep2025\Assignment_three\primeNumber\obj\Debug\net8.0\ref\primeNumber.dll
