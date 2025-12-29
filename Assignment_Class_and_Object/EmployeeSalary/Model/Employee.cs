@@ -42,32 +42,41 @@ namespace EmployeeSalary.Model
             }
         }
 
+        // base salary valdation
         public double BaseSalary
         {
             get { return baseSalary; }
             set
+
             {
+                //only takes salary greater than 10000
                 if (value < 10000)
                     Console.WriteLine("Base Salary cannot be less than 10000");
                 else
                     baseSalary = value;
             }
         }
+        //getting and setter for years of service
         public int YearsOfService
         {
             get { return yearsOfService; }
             set { yearsOfService = value; }
         }
+
+        //function to calculate bonus 
         public double CalculateBonus()
         {
             return baseSalary * 0.05 * yearsOfService;
         }
 
+
+        // function to calculate total salary
         public double TotalSalary()
         {
             return baseSalary + CalculateBonus();
         }
 
+        //Overriding
         public override string ToString()
         {
             return $"Name: {name}, Base Salary: {baseSalary}, Years of Service: {yearsOfService}, " +
