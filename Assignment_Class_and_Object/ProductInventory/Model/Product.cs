@@ -8,7 +8,7 @@ namespace ProductInventory.Model
 {
     public class Product
     {
-        // these fields sotre the actual data of the product
+        // these fields store the actual data of the product
         private int productId;
         private string name;
         private double price;
@@ -36,6 +36,7 @@ namespace ProductInventory.Model
             { return productId; }
             set
             {
+                // validating the product id 
                 if (value < 0)
                     Console.WriteLine("Product Id should be positive");
                 else
@@ -47,6 +48,7 @@ namespace ProductInventory.Model
             get { return name; }
             set
             {
+                // validating the product name
                 if (string.IsNullOrEmpty(value))
                     Console.WriteLine("Product Name should not be empty");
                 else
@@ -58,6 +60,7 @@ namespace ProductInventory.Model
             get { return price; }
             set
             {
+                // product price should be greater than zero
                 if (value < 0)
                     Console.WriteLine("Price must be greater than 0");
                 else
@@ -73,6 +76,7 @@ namespace ProductInventory.Model
 
         public bool AddStock()
         {
+            // adding stock for product
             stockQuantity++;
             Console.WriteLine($"Stock updated for the product {name}");
             return true;
@@ -80,6 +84,7 @@ namespace ProductInventory.Model
 
         public bool Sell()
         {
+            //if condition to check the product stock is available
             if (stockQuantity <= 0)
             {
                 Console.WriteLine("Product Out of Stock");
@@ -88,12 +93,14 @@ namespace ProductInventory.Model
 
             else 
             {
+                // if stocck available reduce one stock from the existing stock
                 stockQuantity--;
                 Console.WriteLine($"One stock has been sold for the product {name}");
                 return true;
             }      
         }
 
+        //Overriding ToString() to display Product details
         public override string? ToString()
         {
             return $"ProductId: {ProductId}, Product Name: {name}, Quantity: {stockQuantity} Price: {price}";
