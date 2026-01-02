@@ -1,0 +1,21 @@
+1. Is the base class constructor being called when a derived class object is created? If yes, in what order?
+
+Answer:
+Yes, when a derived class object is created, the base class constructor is always called.
+The base class constructor is executed before the derived class constructor.
+This ensures that the base class part of the object is properly initialized first.
+
+2. Can a derived class object be assigned to a base class reference? If yes, which Read_Data() method will be invoked?
+
+Answer:
+Yes, a derived class object can be assigned to a base class reference. This is known as upcasting.
+
+If the Read_Data() method is not declared as virtual, the base class version of the method will be invoked.
+
+If the Read_Data() method is declared as virtual in the base class and overridden in the derived class, then the derived class version of the method will be invoked at runtime.
+
+3. Can a base class object be assigned to a derived class reference?
+
+Answer:
+No, a base class object cannot be assigned to a derived class reference directly.
+This is because a base class object does not contain the additional members of the derived class, and such an assignment would violate type safety.
