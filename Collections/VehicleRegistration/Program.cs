@@ -22,7 +22,7 @@ namespace VehicleRegistrationProcess
 
                 choice = int.Parse(Console.ReadLine());
 
-                //swich case to handle choice
+                //switch case to handle choice
                 switch (choice)
                 {
                     case 1:
