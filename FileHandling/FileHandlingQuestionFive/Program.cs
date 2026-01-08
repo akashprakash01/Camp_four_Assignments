@@ -12,7 +12,7 @@
             Console.Write("Enter the location path correctly to copy the text file: ");
             string userInputPath = Console.ReadLine();
 
-            //checking if the file exist
+            //checking if the file exist//
             if (!File.Exists(filePath))
             {
                 //Creating file if not exist
