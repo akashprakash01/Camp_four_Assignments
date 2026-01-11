@@ -34,20 +34,23 @@ namespace VehicleRegisteration.Model
         }
 
         //method to list all the vehicles
-        public void ListVehicles()
+        public void DisplayVehicle(string numberPlate)
         {
-            if (vehicles == null)
+            if (!vehicles.ContainsKey(numberPlate))
             {
-                Console.WriteLine("No vehicles to list");
+                Console.WriteLine("This vehicle doesn't exist");
             }
             else
             {
-                foreach (var vehicle in vehicles.Values)
-                {
-                    Console.WriteLine($" Vehicle Number: {vehicle.LicenseNumber}, Model: {vehicle.Model}, CompanyName {vehicle.CarCompany}");
-                }
-            }
+                Vehicle vehicle = vehicles[numberPlate];
 
+                Console.WriteLine(
+                    $"Number Plate: {vehicle.LicenseNumber}, " +
+                    $"Model: {vehicle.Model}, " +
+                    $"Company: {vehicle.CarCompany}"
+                );
+            }
         }
+
     }
 }
